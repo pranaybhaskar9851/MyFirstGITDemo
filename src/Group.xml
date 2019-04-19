@@ -1,0 +1,12 @@
+<suite name="Suite" parallel="methods" thread-count="2">
+  <test name="Test">
+  <groups>
+  <run>
+  <include name="regression"/> 
+  </run>
+  </groups>
+    <classes>
+      <class name="SanityTests.NewTest3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
