@@ -16,6 +16,7 @@ public class Test1 {
 		WebDriver driver=new ChromeDriver();
 		Thread.sleep(1000);
 		//driver.manage().window().maximize();
+///becomeeee
 		driver.get("https://www.irctc.co.in");
 		WebElement uname=driver.findElement(By.id("usernameId"));
 		uname.sendKeys("pranay_161");
