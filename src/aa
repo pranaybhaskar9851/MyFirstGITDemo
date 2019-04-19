@@ -2,6 +2,12 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
+      
+      
+      
+      PRANAY HBHAKJSKJRIHIAH PAPSJD
+
+      
       <class name="SanityTests.NewTest"/>
     </classes>
   </test> <!-- Test -->
